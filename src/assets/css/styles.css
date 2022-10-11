@@ -1,0 +1,44 @@
+body {
+    background-color: #013566; 
+}
+
+a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgoldenrod;
+}
+
+h1 {
+    color: white;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.body-content {
+    padding: 0px 8vw;
+}
+
+.card-dark {
+    background-color: #333; 
+    border-color: #FFD700;
+    color: aliceblue;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-primary {
+    background-color: #013566;
+}
+
+.btn-primary:hover {
+    background-color: #021125;
+}
